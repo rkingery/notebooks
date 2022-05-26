@@ -5,4 +5,5 @@
 .ipynb_checkpoints
 **/*.ipynb_checkpoints/
 runs
-__MACOSX
+__MACOS
+__pycache__
