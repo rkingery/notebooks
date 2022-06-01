@@ -6,5 +6,5 @@
 **/*.ipynb_checkpoints/
 runs
 __MACOS
-__pycache_
+__pycache__
 models
