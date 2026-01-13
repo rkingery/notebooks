@@ -8,3 +8,5 @@ runs
 __MACOS
 __pycache__
 models
+AGENTS.md
+CLAUDE.md
