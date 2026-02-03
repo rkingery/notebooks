@@ -7,6 +7,7 @@
 runs
 __MACOS
 __pycache__
+.DS_Store
 models
 AGENTS.md
 CLAUDE.md
